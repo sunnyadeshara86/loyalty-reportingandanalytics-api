@@ -1,1 +1,1 @@
-# loyalty-reportingandanalytics-api
+# Loyalty Reporting and Analytics API
